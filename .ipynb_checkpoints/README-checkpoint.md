@@ -13,7 +13,7 @@ The questions we want to answer:
 - How do yearly crime rates correlate with the team’s success?
 - Is this impact unique to Philadelphia? How does it compare to:
   - Other sports (e.g., Philadelphia 76ers)
-  - Other cities (e.g., Chicago Bears)?
+  - Other cities (e.g., Chicago Bears)
 - Where in the city does crime occur in relation to game outcomes?
 - What types of crimes (e.g., domestic abuse, arson, assault) are most affected?
 
