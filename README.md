@@ -22,5 +22,5 @@ The questions we want to answer:
 
 We draw inspiration from [Football, Alcohol, and Domestic Abuse](https://www.sciencedirect.com/science/article/pii/S004727272300213X)
 
-
+We also used data from this study [Sports Viewership In Philadelphia](https://d101vc9winf8ln.cloudfront.net/documents/49536/original/Sports_Viewership_in_the_Philadelphia-Camden-Wilmington__PA-NJ-DE-MD_Metropolitan_Area.pdf?1714499267)
 
