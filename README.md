@@ -29,4 +29,11 @@ In the README, have a link to each script or notebook and a description of what 
 what it does, and what it outputs (e.g., cleaned data; figures)
 
 ## Notebook Descpritions 
+- [Functions File](https://github.com/pwax1120/mcdermid_waxman_final_project/blob/main/code/utils.ipynb)
 - [0 - Eagles Game Day Analysis](https://github.com/pwax1120/mcdermid_waxman_final_project/blob/main/code/00_eagles_gameday_analysis.ipynb)
+- [1 - Bears Game Day Analysis](https://github.com/pwax1120/mcdermid_waxman_final_project/blob/main/code/01_bears_gameday_analysis.ipynb)
+- [2 - 76ers Game Day Analysis](https://github.com/pwax1120/mcdermid_waxman_final_project/blob/main/code/02_sixers_gameday_analysis.ipynb)
+- [3 - Philadelphia Case Studies](https://github.com/pwax1120/mcdermid_waxman_final_project/blob/main/code/03_philly_casestudies.ipynb)
+- [4 - Chicago Case Studies](https://github.com/pwax1120/mcdermid_waxman_final_project/blob/main/code/04_chicago_casestudies.ipynb)
+- [5 - Win/Loss Analysis](https://github.com/pwax1120/mcdermid_waxman_final_project/blob/main/code/05_win_loss_analysis.ipynb)
+  
