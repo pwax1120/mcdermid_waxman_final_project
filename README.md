@@ -24,3 +24,9 @@ We draw inspiration from [Football, Alcohol, and Domestic Abuse](https://www.sci
 
 We also used data from this study [Sports Viewership In Philadelphia](https://d101vc9winf8ln.cloudfront.net/documents/49536/original/Sports_Viewership_in_the_Philadelphia-Camden-Wilmington__PA-NJ-DE-MD_Metropolitan_Area.pdf?1714499267)
 
+
+In the README, have a link to each script or notebook and a description of what it takes in (dataset; API key; etc), 
+what it does, and what it outputs (e.g., cleaned data; figures)
+
+## Notebook Descpritions 
+- [0 - Eagles Game Day Analysis](00_eagles_gameday_analysis.ipynb)
