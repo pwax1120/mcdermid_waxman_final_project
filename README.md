@@ -29,4 +29,4 @@ In the README, have a link to each script or notebook and a description of what 
 what it does, and what it outputs (e.g., cleaned data; figures)
 
 ## Notebook Descpritions 
-- [0 - Eagles Game Day Analysis](00_eagles_gameday_analysis.ipynb)
+- [0 - Eagles Game Day Analysis](./00_eagles_gameday_analysis.ipynb)
