@@ -1,4 +1,4 @@
-# QSS 20 Final Project – Milestone 1
+# QSS 20 Final Project
 
 **Group Members:** Evan McDermid, Paul Waxman 
 
