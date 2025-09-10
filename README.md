@@ -2,7 +2,7 @@
 
 **Group Members:** Evan McDermid, Paul Waxman 
 
-**Final Paper:** [View the full documentation](./qss_20_final_paper.pdf)
+**Final Paper:** [More Than a Game: Victory-Driven Crime Spikes and the Complex Urban Impact of Sports](./qss_20_final_paper.pdf)
 
 ## Project Overview
 
