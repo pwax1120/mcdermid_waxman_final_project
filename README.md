@@ -2,7 +2,7 @@
 
 **Group Members:** Evan McDermid, Paul Waxman 
 
-**Final Paper:** [View the full documentation](./docs/documentation.pdf)
+**Final Paper:** [View the full documentation](./qss_20_final_paper.pdf)
 
 ## Project Overview
 
