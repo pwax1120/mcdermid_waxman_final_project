@@ -2,6 +2,8 @@
 
 **Group Members:** Evan McDermid, Paul Waxman 
 
+**Final Paper:** [View the full documentation](./docs/documentation.pdf)
+
 ## Project Overview
 
 We are analyzing the correlation between Philadelphia crime incidents and Philadelphia Eagles football game results.
